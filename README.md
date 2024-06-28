@@ -1,12 +1,10 @@
 # TuneLab_Scripts
 G2PAScrips I made for Tunelab!
 
-## I'm making these scripts:
+Ok I've humbled myself some things just wont work lmao
 
-JPN -> english (word based)
+## Here's the edited list on scripts I will make
 
-arpasing base (no need to replace g2pa4 DLLs) (word based)
+Arpasing (convert ENG phonemes)
 
-english -> jpn (hiragana and Romaji input, unlike the phoneme only base script)
-
-arpasing base -> jpn (hiragana and Romaji input)
+JPN -> ENG (phonemes only I guess)
